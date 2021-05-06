@@ -1,6 +1,16 @@
-### GitHub Stats
+## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TCreopargh&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TCreopargh&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TCreopargh)](https://github.com/anuraghazra/github-readme-stats)
+## Featured Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCreopargh&repo=GreedyCraft)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCreopargh&repo=A-Million-Things-To-Do)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GentleWine&repo=mall&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCreopargh&repo=CraftTweakerIntegration)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCreopargh&repo=Text-Converter-Android)](https://github.com/anuraghazra/github-readme-stats)
