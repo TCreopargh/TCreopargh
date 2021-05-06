@@ -22,4 +22,4 @@ Website | Link | Description
 **GreedyCraft** modpack | https://greedycraft.com/ | Official site of my GreedyCraft Minecraft modpack
 **GreedyCraft** CurseForge project page | https://www.curseforge.com/minecraft/modpacks/greedycraft | Download page and description of GreedyCraft modpack
 
-Mail: tcreopargh@gmail.com | admin@tcreopargh.xyz
+Email: tcreopargh@gmail.com | admin@tcreopargh.xyz
