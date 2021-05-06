@@ -15,6 +15,9 @@
 
 ## Links
 
-* **Blog**                                    **-** https://blog.tcreopargh.xyz/
-* **SourceQuest** open source project sharing **-** https://sourcequest.xyz/
-* **GreedyCraft** modpack official site       **-** http://greedycraft.com/
+Website | Link
+--- | ---
+**Blog** | https://blog.tcreopargh.xyz/
+**SourceQuest** | open source project sharing https://sourcequest.xyz/
+**GreedyCraft** | modpack official site http://greedycraft.com/
+**GreedyCraft** CurseForge project page | https://www.curseforge.com/minecraft/modpacks/greedycraft
