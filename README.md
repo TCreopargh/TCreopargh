@@ -11,7 +11,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCreopargh&repo=CraftTweakerIntegration&theme=dracula&hide_border=true)](https://github.com/TCreopargh/CraftTweakerIntegration)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCreopargh&repo=Versioner&theme=dracula&hide_border=true)](https://github.com/TCreopargh/Versioner)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCreopargh&repo=Text-Converter-Android&theme=dracula&hide_border=true)](https://github.com/TCreopargh/Text-Converter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCreopargh&repo=Text-Converter-Android&theme=dracula&hide_border=true)](https://github.com/TCreopargh/Text-Converter-Android)
 
 ## Links
 
