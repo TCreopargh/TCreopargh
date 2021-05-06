@@ -5,12 +5,12 @@
 
 ## Featured Repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCreopargh&repo=GreedyCraft)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCreopargh&repo=GreedyCraft&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCreopargh&repo=A-Million-Things-To-Do)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCreopargh&repo=A-Million-Things-To-Do&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GentleWine&repo=mall&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GentleWine&repo=mall&show_owner=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCreopargh&repo=CraftTweakerIntegration)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCreopargh&repo=CraftTweakerIntegration&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCreopargh&repo=Text-Converter-Android)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TCreopargh&repo=Text-Converter-Android&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
