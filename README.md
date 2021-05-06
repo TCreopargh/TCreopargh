@@ -21,3 +21,5 @@ Website | Link | Description
 **SourceQuest** | https://sourcequest.xyz/ | For sharing and discovering open source projects
 **GreedyCraft** modpack | https://greedycraft.com/ | Official site of my GreedyCraft Minecraft modpack
 **GreedyCraft** CurseForge project page | https://www.curseforge.com/minecraft/modpacks/greedycraft | Download page and description of GreedyCraft modpack
+
+Mail: tcreopargh@gmail.com | admin@tcreopargh.xyz
