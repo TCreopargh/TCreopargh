@@ -16,7 +16,7 @@
 ## Links
 
 Website | Link | Description
---- | ---
+--- | --- | ---
 **Blog** | https://blog.tcreopargh.xyz/ | Personal Blog
 **SourceQuest** | https://sourcequest.xyz/ | For sharing and discovering open source projects
 **GreedyCraft** modpack | http://greedycraft.com/ | Official site of my GreedyCraft Minecraft modpack
