@@ -4,7 +4,7 @@ Nothing to see here...
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TCreopargh&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/TCreopargh)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TCreopargh&layout=compact&theme=dracula&hide_border=true&langs_count=6)](https://github.com/TCreopargh?tab=repositories)
 
-[![TCreopargh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TCreopargh)](https://wakatime.com/@TCreopargh)
+[![TCreopargh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TCreopargh&show_icons=true&theme=dracula&hide_border=true)](https://wakatime.com/@TCreopargh)
 
 ## Featured Repositories
 
